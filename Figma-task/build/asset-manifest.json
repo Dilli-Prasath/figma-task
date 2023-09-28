@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5474a7c6.css",
+    "main.js": "/static/js/main.d69ad22c.js",
+    "static/js/787.573ea6bb.chunk.js": "/static/js/787.573ea6bb.chunk.js",
+    "static/media/rectangle2@3x.png": "/static/media/rectangle2@3x.611afcbe33295a000e84.png",
+    "static/media/rectangle1@3x.png": "/static/media/rectangle1@3x.6fbbe70118ccbfbb1624.png",
+    "static/media/rectangle@3x.png": "/static/media/rectangle@3x.9616ce0243629451b0c1.png",
+    "static/media/hero-e@3x.png": "/static/media/hero-e@3x.7f108bfe0a3d11c31176.png",
+    "static/media/subtract.svg": "/static/media/subtract.72f3f1fee1c2b3734694896f11ad17a0.svg",
+    "static/media/Union.svg": "/static/media/Union.f036088675a7e2467d6209e54580b776.svg",
+    "static/media/Vector1.svg": "/static/media/Vector1.4ddcb085199e85b675e7d89c15e79832.svg",
+    "static/media/subtract1.svg": "/static/media/subtract1.30447a58793b43a6187c7977850bad94.svg",
+    "index.html": "/index.html",
+    "static/media/Solararrowuplinear.svg": "/static/media/Solararrowuplinear.f46c8b40ada896193ea87abdf170b6c1.svg",
+    "static/media/vector.svg": "/static/media/vector.09a2f95aed621c0e09a7d1f643e2c19f.svg",
+    "static/media/polygon1.svg": "/static/media/polygon1.df22152e174092689cea7581b797d178.svg",
+    "static/media/Vector-4.svg": "/static/media/Vector-4.45fe2179facc9c64d3e24e8786ef46be.svg",
+    "main.5474a7c6.css.map": "/static/css/main.5474a7c6.css.map",
+    "main.d69ad22c.js.map": "/static/js/main.d69ad22c.js.map",
+    "787.573ea6bb.chunk.js.map": "/static/js/787.573ea6bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5474a7c6.css",
+    "static/js/main.d69ad22c.js"
+  ]
+}

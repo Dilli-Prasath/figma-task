@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Revalia:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-revalia: Revalia;
+  --ja-20px-medium: "Noto Sans";
+
+  /* font sizes */
+  --ja-32px-medium-size: 32px;
+  --ja-16px-regular-size: 16px;
+  --ja-12px-regular-size: 12px;
+  --ja-20px-medium-size: 20px;
+  --ja-24px-medium-size: 24px;
+  --ja-40px-medium-size: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gray-100: rgba(0, 0, 0, 0.8);
+  --color-gray-200: rgba(255, 255, 255, 0.8);
+  --color-dimgray: #5d6273;
+  --color-salmon: #ff6b6b;
+  --color-blueviolet: #6a45ff;
+  --color-deeppink: #ff32a0;
+
+  /* Gaps */
+  --gap-101xl: 120px;
+  --gap-37xl: 56px;
+  --gap-5xl: 24px;
+  --gap-21xl: 40px;
+  --gap-77xl: 96px;
+  --gap-45xl: 64px;
+  --gap-base: 16px;
+  --gap-13xl: 32px;
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-61xl: 80px;
+  --padding-181xl: 200px;
+}
